@@ -52,7 +52,7 @@ public class Q_14502 {
                                 map[x2][y2] = 1;
                                 map[x3][y3] = 1;
 
-                                int cur = dfs(n, m);
+                                int cur = bfs(n, m);
                                 if (cur > ans) ans = cur;
 
                                 map[x1][y1] = 0;
@@ -68,7 +68,7 @@ public class Q_14502 {
         System.out.println(ans);
     }
 
-    private static int dfs(int n, int m) {
+    private static int bfs(int n, int m) { // 안전영역의 크기 계산
         Queue<Pair_14502> q = new LinkedList<>();
 
         for (int i = 0; i < n; i++) {
