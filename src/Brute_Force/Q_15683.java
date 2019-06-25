@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class CCTV {
-    public int x; // cctv 위치
-    public int y; // cctv 위치
-    public int type; // cctv 타입
+    int x; // cctv 위치
+    int y; // cctv 위치
+    int type; // cctv 타입
     int dir; // cctv가 비추고 있는 방향
 
     CCTV(int x, int y, int type) {
@@ -19,8 +19,8 @@ class CCTV {
 
 class Q_15683 {
 
-    static int[] dx = {0, 1, 0, -1}; // cctv가 바라보는 방향 first index = 3시 방향 second index = 6시 방향 third index = 9시 방향, fourth index = 12시 방향
-    static int[] dy = {1, 0, -1, 0}; // cctv가 바라보는 방향 first index = 3시 방향 second index = 6시 방향 third index = 9시 방향, fourth index = 12시 방향
+    static int[] dx = {0, 1, 0, -1}; // cctv 회전 방향 first index = 3시 방향 second index = 6시 방향 third index = 9시 방향, fourth index = 12시 방향
+    static int[] dy = {1, 0, -1, 0}; // cctv 회전 방향 first index = 3시 방향 second index = 6시 방향 third index = 9시 방향, fourth index = 12시 방향
     static int n;
     static int m;
 
@@ -30,6 +30,7 @@ class Q_15683 {
         m = sc.nextInt();
 
         int[][] map = new int[n][m];
+        int[][] copy_map = new int[n][m];
 
         ArrayList<CCTV> cctv = new ArrayList<>();
 
@@ -41,16 +42,18 @@ class Q_15683 {
                 }
             }
         }
-        System.out.println(solve(map, cctv, 0));
+
+        System.out.println(solve(map, copy_map, cctv, 0));
     }
 
-    private static int solve(int[][] map, ArrayList<CCTV> cctv, int index) {
-        if (index == cctv.size()) { // 모든 cctv 탐색을 마쳤다면
-            int[][] copy_map = new int[n][m];
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < m; j++)
+    private static int solve(int[][] map, int[][] copy_map, ArrayList<CCTV> cctv, int index) {
+        if (cctv.size() == index) { // 모든 cctv 탐색을 마쳤다면
+            for(int i=0; i<n; i++){
+                for(int j=0; j<m; j++){
                     copy_map[i][j] = map[i][j];
+                }
             }
+
             for (CCTV c : cctv) {
                 int x = c.x;
                 int y = c.y;
@@ -86,10 +89,10 @@ class Q_15683 {
             }
             return cnt;
         }
-        int ans = Integer.MAX_VALUE;
-        for (int i = 0; i < 4; i++) {  // cctv 회전
+        int ans = 100;
+        for (int i = 0; i < 4; i++) {
             cctv.get(index).dir = i;
-            int temp = solve(map, cctv, index + 1);
+            int temp = solve(map, copy_map, cctv, index + 1);
             if (ans > temp) {
                 ans = temp;
             }

@@ -3,27 +3,26 @@ package Dynamic_Programming;
 import java.util.Scanner;
 
 public class Q_11052 {
-    public static int[] d;
-    public static int[] p;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        d = new int[n + 1];
-        p = new int[n + 1];
-        for (int i = 1; i <= n; i++) {
-            p[i] = sc.nextInt();
-        }
-        sc.close();
-        System.out.print(solve(n));
-    }
+        int n = sc.nextInt(); // 민규가 구매하려는 카드의 갯수
 
-    public static int solve(int x) {
-        for (int i = 1; i <= x; i++) {
+        int[] card_price = new int[n + 1];
+        int[] max_price = new int[n + 1];
+
+        //max_price[1] = card_price[1];
+
+        for (int i = 1; i <= n; i++) {
+            card_price[i] = sc.nextInt();
+        }
+
+        for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) {
-                d[x] = Math.max(d[x], p[j] + d[x - j]);
+                max_price[i] = Math.max(max_price[i], card_price[j] + max_price[i - j]);
             }
         }
-        return d[x];
+
+        System.out.println(max_price[n]);
     }
 }
