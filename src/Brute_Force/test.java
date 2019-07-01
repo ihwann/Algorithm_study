@@ -1,37 +1,34 @@
 package Brute_Force;
 
-import java.util.Scanner;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 public class test {
-    // static final int inf = -100000000;
-    static int[] t;
-    static int[] p;
-    static int n;
-    static int ans = 0;
+    public static void main(String args[]) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    static void go(int day, int sum) {
-        if (day == n + 1) {
-            if (ans < sum)
-                ans = sum;
-            return;
-        }
-        if (day > n + 1) {
-            return;
-        }
-        go(day + 1, sum);
-        go(day + t[day], sum + p[day]);
-    }
+        int n = Integer.parseInt(br.readLine());
 
-    public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
-        t = new int[n + 1];
-        p = new int[n + 1];
+        int[] t = new int[n + 1];
+        int[] p = new int[n + 1];
+        int[] dp = new int[n + 50]; // n 일 까지 상담을 했을 때 최대 소득
+
         for (int i = 1; i <= n; i++) {
-            t[i] = sc.nextInt();
-            p[i] = sc.nextInt();
+            String[] temp = br.readLine().split(" ");
+            t[i] = Integer.parseInt(temp[0]);
+            p[i] = Integer.parseInt(temp[1]);
         }
-        go(1, 0);
-        System.out.println(ans);
+
+        for (int i = 1; i <= n; i++) {
+            // i 일에 상담을 했을 경우
+            dp[i + t[i]] = Math.max(dp[i + t[i]], dp[i] + p[i]);
+
+            // i 일에 상담을 하지 않았을 경우
+            dp[i + 1] = Math.max(dp[i], dp[i + 1]);
+        }
+
+        System.out.println(dp[n + 1]);
+
     }
 }
