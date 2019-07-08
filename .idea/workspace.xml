@@ -4,160 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/Brute_Force/Q_2210.java" line="40" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c47fd9ea-9362-4970-979a-1503c2f685a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/CCTV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Pair_15684.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1019.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14225.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15683.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15684.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_16197.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_16198.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2422.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2916.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_4902.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_9944.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_16194.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1915.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_10026.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_2234.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_10026.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1436.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14395.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_16137.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2234.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/teseeee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/META-INF/BackJoon_Algorithm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Math/Q_1475.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Math/Q_1946.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Simulation/Q_1181.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Simulation/Q_12970.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Simulation/Q_13458.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Brute_Force/Q_1019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Brute_Force/Q_9944.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_16137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/teseeee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/Q_1946.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/Q_12970.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/Q_13458.java" afterDir="false" />
+    <list default="true" id="c47fd9ea-9362-4970-979a-1503c2f685a9" name="Default Changelist" comment="version 1.0.0&#10;Git Init&#10;2019.06.26">
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Q_git.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Bit_Mask/Q_11723.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Bit_Mask/Q_11723.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_10819.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_10819.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_10971.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_10971.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_10972.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_10972.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1107.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1107.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1182.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1182.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1339.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1339.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14500.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14500.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14501.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14501.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1476.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1476.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14889.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14889.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14889_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14889_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15649.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15649.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15650.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15650.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15651.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15651.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15652.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15652.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15654.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15654.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15655.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15655.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15661.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15661.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_15663.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_15663.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1748.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1748.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1759.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1759.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_1987.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_1987.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2003.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2210.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2210.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2309.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2309.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2529.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2529.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2529_dfs_backTracking.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2529_dfs_backTracking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_2580.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_2580.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_6064.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_6064.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_6603.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_6603.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_9095.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_9095.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_9663.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_9663.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Brute_Force/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10422.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10422.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10844.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10844.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10942.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_10942.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11048.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11048.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11052.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11052.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11053.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11053.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11057.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11057.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11058.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11058.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11066.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11066.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11726.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11726.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11727.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_11727.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12865.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12865.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12869.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12869.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12872.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12872.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12969.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12969.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12996.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_12996.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1463.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1463.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1495.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1495.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_15486.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_15486.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_15989.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_15989.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1699.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1699.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1767.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1767.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1890.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1890.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1912.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_1912.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2156.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2156.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2193.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2193.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2225.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2225.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2293.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_2293.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_4811.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_4811.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_5557.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_5557.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_9095.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_9095.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_9465.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Dynamic_Programming/Q_9465.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Flood_Fill/Pair_2667_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Flood_Fill/Pair_2667_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Flood_Fill/Pair_4963.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Flood_Fill/Pair_4963.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Flood_Fill/Q_2667_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Flood_Fill/Q_2667_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Flood_Fill/Q_2667_DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Flood_Fill/Q_2667_DFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Flood_Fill/Q_4963_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Flood_Fill/Q_4963_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_1261.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_1261.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_14442.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_14442.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_14502.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_14502.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_1600.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_2178.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_2178.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_2206.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_2206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_3184.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_3184.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_7576_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Pair_7576_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_11724.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_11724.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1260.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1261.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1261.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_12851.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_12851.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_12886.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_12886.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_13549_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_13549_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_13913.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_13913.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14226.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14226.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14442.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14442.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14502.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_14502.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1525.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1525.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_15653.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_15653.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1600.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1697.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_1697.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2178_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2178_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2206.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2251.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_2251.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_3184.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_3184.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_5014.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_5014.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_7576_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_7576_BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_8111.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_8111.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_9019.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_9019.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/Q_1929.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Q_1929.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/Q_1978.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Q_1978.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/Q_6588.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Q_6588.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/Q_9613.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Q_9613.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Math/zzzzzzzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/zzzzzzzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Simulation/Q_14499.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Simulation/Q_14499.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Simulation/Q_14503.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Simulation/Q_14503.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Simulation/Q_14890.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Simulation/Q_14890.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Simulation/Q_14891.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Simulation/Q_14891.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Brute_Force/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brute_Force/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Math/zzzzzzzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math/zzzzzzzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Brute_Force/Q_14888.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brute_Force/Q_14888.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -166,6 +18,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="175" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -176,19 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_9944.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Math/Q_1946.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="-180">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,38 +42,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simulation/Q_13458.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simulation/Q_12970.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/tetttt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_14888.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="-180">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withBFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="58" selection-end-line="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -278,6 +131,13 @@
         <option value="$PROJECT_DIR$/src/Brute_Force/Q_9944.java" />
         <option value="$PROJECT_DIR$/src/Math/Q_1946.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Math/ee.js" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/tetttt.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDFS.java" />
+        <option value="$PROJECT_DIR$/src/Brute_Force/Q_14888.java" />
       </list>
     </option>
   </component>
@@ -287,7 +147,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -299,8 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,20 +171,28 @@
               <item name="BackJoon_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BackJoon_Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BackJoon_Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Spring_study" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -345,9 +211,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q_1946">
-    <configuration name="Q_1019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Brute_Force.Q_1019" />
+  <component name="RunManager" selected="Application.Q_14888">
+    <configuration name="Q_14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Brute_Force.Q_14888" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -359,21 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_13458" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.Q_13458" />
-      <module name="BackJoon_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Simulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_1915" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1915" />
+    <configuration name="Q_1937" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1937" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -385,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_1946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.Q_1946" />
+    <configuration name="Q_1937_withDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1937_withDFS" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,12 +251,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_9944" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Brute_Force.Q_9944" />
+    <configuration name="teeeee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.teeeee" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Brute_Force.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tetttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.tetttt" />
+      <module name="BackJoon_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_1946" />
-        <item itemvalue="Application.Q_9944" />
-        <item itemvalue="Application.Q_1915" />
-        <item itemvalue="Application.Q_1019" />
-        <item itemvalue="Application.Q_13458" />
+        <item itemvalue="Application.Q_14888" />
+        <item itemvalue="Application.Q_1937_withDFS" />
+        <item itemvalue="Application.Q_1937" />
+        <item itemvalue="Application.tetttt" />
+        <item itemvalue="Application.teeeee" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +310,12 @@
       <workItem from="1561514741450" duration="24184000" />
       <workItem from="1561609150405" duration="946000" />
       <workItem from="1561633565843" duration="1280000" />
-      <workItem from="1561952870097" duration="20964000" />
+      <workItem from="1561952870097" duration="23608000" />
+      <workItem from="1562037924769" duration="11314000" />
+      <workItem from="1562122678682" duration="3638000" />
+      <workItem from="1562133067944" duration="3827000" />
+      <workItem from="1562384567656" duration="7790000" />
+      <workItem from="1562552489673" duration="11909000" />
     </task>
     <task id="LOCAL-00001" summary="version 1.0.0&#10;2019.06.04">
       <created>1559646962187</created>
@@ -506,13 +377,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136798000" />
+    <option name="totallyTimeSpent" value="177920000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19109312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -522,58 +402,62 @@
       <window_info id="Learn" order="7" weight="0.32955465" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.3152985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31716418" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49716598" visible="true" weight="0.3152985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50932837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50121456" side_tool="true" weight="0.31343284" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283582" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3283582" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32955465" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18461539" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.32955465" />
-      <window_info id="Learn" order="7" weight="0.32955465" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.3152985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31716418" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50121456" side_tool="true" weight="0.31343284" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49959514" weight="0.3283582" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3283582" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32955465" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19109312" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32955465" />
+      <window_info id="Learn" order="7" weight="0.32955465" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49716598" visible="true" weight="0.3152985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50932837" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49959514" weight="0.3283582" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3283582" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32955465" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,104 +472,12 @@
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.06.26" />
     <option name="LAST_COMMIT_MESSAGE" value="version 1.0.0&#10;Git Init&#10;2019.06.26" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BackJoon_Algorithm$teeeee.ic" NAME="teeeee Coverage Results" MODIFIED="1562045259500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Dynamic_Programming.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_14500.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_15683.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_2210.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_4902.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_2916.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_2422.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_14225.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_16197.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_11724.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_5014.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_7576_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1261.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2178_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-770">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1600.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1100">
@@ -785,20 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9095.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9465.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_5557.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -889,13 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_13458.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1912.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -913,24 +684,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_12970.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1463.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -951,13 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_9944.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Math/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-74">
@@ -965,20 +715,158 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Q_git.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/ee.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_13458.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_12970.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Math/Q_1946.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1495.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_10422.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_9944.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9465.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1890.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9095.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_2193.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="348" column="18" selection-start-line="348" selection-start-column="18" selection-end-line="348" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_9019.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="58" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/tetttt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_14888.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -988,6 +876,17 @@
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

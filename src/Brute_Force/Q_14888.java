@@ -3,8 +3,8 @@ package Brute_Force;
 import java.util.Scanner;
 
 public class Q_14888 {
-    static int MAX = -99999;
-    static int MIN = 99999;
+    static int MAX = Integer.MIN_VALUE;
+    static int MIN = Integer.MAX_VALUE;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
