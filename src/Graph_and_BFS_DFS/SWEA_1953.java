@@ -79,7 +79,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -92,7 +92,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -104,7 +104,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -116,7 +116,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -128,7 +128,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -140,7 +140,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
@@ -152,7 +152,7 @@ public class SWEA_1953 {
                         int ny = y + dy[i];
                         if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
                         if (visit[nx][ny] || map[nx][ny] == 0) continue;
-                        if (pathChk(nx, ny, i)) {
+                        if (pathChk(nx, ny, i)) { // 다음 배수관으로 이동 가능한지
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
