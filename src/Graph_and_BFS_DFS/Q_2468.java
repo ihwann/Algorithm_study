@@ -21,6 +21,7 @@ public class Q_2468 {
         visit = new boolean[n][n];
 
         int maxHeight = 0;
+
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             for (int j = 0; j < n; j++) {

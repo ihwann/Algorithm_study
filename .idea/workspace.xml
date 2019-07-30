@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Brute_Force/Q_2210.java" line="40" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c47fd9ea-9362-4970-979a-1503c2f685a9" name="Default Changelist" comment="version 1.0.0&#10;Git Init&#10;2019.06.26">
-      <change afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2583_withDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Q_1520.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/Q_14890_v2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/BackJoon_Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/BackJoon_Algorithm.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Math/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Math/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2468.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2468.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/SWEA_1953.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/SWEA_1953.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,88 +25,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="BackJoon_Algorithm" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_13913.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1012.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1149.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_11724.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2583_withDFS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1753_with_Dijkstra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,82 +42,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_2210.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_4902.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_2916.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_2422.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_14225.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_16197.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_16198.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2234.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_10026.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1436.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_11052.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_16194.java" />
-        <option value="$PROJECT_DIR$/src/Simulation/Q_1181.java" />
-        <option value="$PROJECT_DIR$/src/Simulation/Q_1475.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_1475.java" />
-        <option value="$PROJECT_DIR$/src/Math/zzzzzzzz.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_14395.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_16137.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/test.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/teseeee.java" />
-        <option value="$PROJECT_DIR$/src/Simulation/Q_13458.java" />
-        <option value="$PROJECT_DIR$/src/Simulation/Q_12970.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_1019.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_9944.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_1946.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/Math/ee.js" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/tetttt.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDFS.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_14888.java" />
-        <option value="$PROJECT_DIR$/src/Brute_Force/Q_3085.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_2169.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_11047.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_1931.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_11399.java" />
-        <option value="$PROJECT_DIR$/src/Math/Q_11725.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1753_with_Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java" />
-        <option value="$USER_HOME$/Downloads/javastep1/Java01.java" />
-        <option value="$USER_HOME$/Downloads/javastep1/Java02.java" />
-        <option value="$PROJECT_DIR$/src/Math/Java01.java" />
-        <option value="$PROJECT_DIR$/src/Math/Java02.java" />
-        <option value="$PROJECT_DIR$/src/Math/Main.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1012.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_6603.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Q_1149.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2583.java" />
-        <option value="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2583_withDFS.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
-  </component>
+  <component name="ProjectId" id="1OiGdGeV5mItC0NvrqFkRKC8CIR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -234,35 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q_2583_withDFS">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.Main" />
-      <module name="BackJoon_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_1012" />
-      <module name="BackJoon_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graph_and_BFS_DFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1149" />
+  <component name="RunManager" selected="Application.Q_1520">
+    <configuration name="Q_11055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_11055" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -274,8 +90,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_2583_withDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_2583_withDFS" />
+    <configuration name="Q_14890_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.Q_14890_v2" />
+      <module name="BackJoon_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_1520" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1520" />
+      <module name="BackJoon_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_2638" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_2638" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -287,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_6603" />
+    <configuration name="SWEA_1953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.SWEA_1953" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -302,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_2583_withDFS" />
-        <item itemvalue="Application.Q_1149" />
-        <item itemvalue="Application.Q_6603" />
-        <item itemvalue="Application.Q_1012" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Q_1520" />
+        <item itemvalue="Application.Q_11055" />
+        <item itemvalue="Application.Q_14890_v2" />
+        <item itemvalue="Application.Q_2638" />
+        <item itemvalue="Application.SWEA_1953" />
       </list>
     </recent_temporary>
   </component>
@@ -347,6 +189,14 @@
       <workItem from="1563169956699" duration="10139000" />
       <workItem from="1563248560112" duration="5967000" />
       <workItem from="1563262306672" duration="18000" />
+      <workItem from="1563277333824" duration="959000" />
+      <workItem from="1563330663537" duration="8716000" />
+      <workItem from="1563419505796" duration="9092000" />
+      <workItem from="1563441417473" duration="2348000" />
+      <workItem from="1563587990889" duration="1104000" />
+      <workItem from="1563762182915" duration="4794000" />
+      <workItem from="1563934874440" duration="130000" />
+      <workItem from="1564453090564" duration="15975000" />
     </task>
     <task id="LOCAL-00001" summary="version 1.0.0&#10;2019.06.04">
       <created>1559646962187</created>
@@ -439,11 +289,36 @@
       <option name="project" value="LOCAL" />
       <updated>1563181699746</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="version 1.0.0&#10;Git Init&#10;2019.07.16">
+      <created>1563277373381</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563277373381</updated>
+    </task>
+    <task id="LOCAL-00015" summary="version 1.0.0&#10;Git Init&#10;2019.07.17">
+      <created>1563344116662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563344116662</updated>
+    </task>
+    <task id="LOCAL-00016" summary="version 1.0.0&#10;Git Init&#10;2019.07.18">
+      <created>1563426535675</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563426535675</updated>
+    </task>
+    <task id="LOCAL-00017" summary="version 1.0.1&#10;Git Init&#10;2019.07.18">
+      <created>1563427386199</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563427386199</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,79 +329,19 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20080972" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.32955465" />
-      <window_info id="Learn" order="7" weight="0.32955465" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49554655" weight="0.3152985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.50932837" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5044534" side_tool="true" weight="0.3152985" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49959514" weight="0.3283582" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3283582" />
-      <window_info anchor="right" id="Key Promoter X" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32955465" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20080972" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.32955465" />
-      <window_info id="Learn" order="7" weight="0.32955465" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49554655" visible="true" weight="0.3152985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.50932837" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5044534" side_tool="true" weight="0.3152985" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49959514" weight="0.3283582" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3283582" />
-      <window_info anchor="right" id="Key Promoter X" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32955465" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1.0.0&#10;2019.06.04" />
@@ -539,374 +354,16 @@
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.09" />
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.11" />
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.0&#10;Git Init&#10;2019.07.15" />
+    <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.16" />
+    <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.17" />
+    <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.18" />
+    <MESSAGE value="version 1.0.1&#10;Git Init&#10;2019.07.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.1&#10;Git Init&#10;2019.07.18" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BackJoon_Algorithm$teeeee.ic" NAME="teeeee Coverage Results" MODIFIED="1562045259500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Dynamic_Programming.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1463.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_10819.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_13458.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_12970.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1915.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_1946.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1495.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_9944.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1890.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/StringTokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="348" column="18" selection-start-line="348" selection-start-column="18" selection-end-line="348" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_1019.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/ee.js" />
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_git.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withBFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/tetttt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_3085.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brute_Force/Q_14888.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_2193.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9465.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_9095.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_16194.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1699.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_12969.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-211">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1937_withDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_2169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="60" column="85" selection-start-line="60" selection-start-column="85" selection-end-line="60" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simulation/Q_14891.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_1475.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_9613.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_11725.java" />
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_9019.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1697.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2251.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Java01.java" />
-    <entry file="file://$PROJECT_DIR$/src/Math/Java02.java" />
-    <entry file="file://$PROJECT_DIR$/src/Math/Java03.java" />
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_11399.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_11047.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/Q_1931.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_6603.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_10422.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_7576_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/teeeee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_13913.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1012.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Q_1149.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_11724.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1753_with_Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2583_withDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

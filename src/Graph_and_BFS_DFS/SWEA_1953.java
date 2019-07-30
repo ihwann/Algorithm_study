@@ -51,6 +51,7 @@ public class SWEA_1953 {
                     map[i][j] = Integer.parseInt(st.nextToken());
                 }
             }
+
             result = 0;
             bfs(n, m, r, l, time);
 
@@ -83,7 +84,6 @@ public class SWEA_1953 {
                             visit[nx][ny] = true;
                             q.add(new suspect(nx, ny, count + 1));
                         }
-
                     }
                     break;
                 case 2:
@@ -178,6 +178,7 @@ public class SWEA_1953 {
                 if (type == 2 || type == 4 || type == 5) return false;
                 break;
         }
+
         return true;
     }
 }
