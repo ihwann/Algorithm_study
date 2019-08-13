@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47fd9ea-9362-4970-979a-1503c2f685a9" name="Default Changelist" comment="version 1.0.0&#10;Git Init&#10;2019.06.26">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Q_1520.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/Q_14890_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_1600v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAlgorithm/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAlgorithm/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAlgorithm/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAlgorithm/quickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackJoon_Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BackJoon_Algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Brute_Force/Q_14888.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/Q_15653.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Graph_and_BFS_DFS/teseeee.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/META-INF/BackJoon_Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/BackJoon_Algorithm.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Math/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Math/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2468.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_2468.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/SWEA_1953.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/SWEA_1953.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_15653.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/Q_15661.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph_and_BFS_DFS/teseeee.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +53,10 @@
   <component name="ProjectId" id="1OiGdGeV5mItC0NvrqFkRKC8CIR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -76,13 +88,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q_1520">
-    <configuration name="Q_11055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_11055" />
+  <component name="RunManager" selected="Application.Combination">
+    <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.Combination" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_14890_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.Q_14890_v2" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortAlgorithm.FizzBuzz" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.*" />
+          <option name="PATTERN" value="SortAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_1520" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Q_1520" />
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.Permutation" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_2638" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_2638" />
+    <configuration name="Q_1600v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.Q_1600v2" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph_and_BFS_DFS.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph_and_BFS_DFS.SWEA_1953" />
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortAlgorithm.quickSort" />
       <module name="BackJoon_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph_and_BFS_DFS.*" />
+          <option name="PATTERN" value="SortAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_1520" />
-        <item itemvalue="Application.Q_11055" />
-        <item itemvalue="Application.Q_14890_v2" />
-        <item itemvalue="Application.Q_2638" />
-        <item itemvalue="Application.SWEA_1953" />
+        <item itemvalue="Application.Combination" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Q_1600v2" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +208,20 @@
       <workItem from="1563587990889" duration="1104000" />
       <workItem from="1563762182915" duration="4794000" />
       <workItem from="1563934874440" duration="130000" />
-      <workItem from="1564453090564" duration="15975000" />
+      <workItem from="1564453090564" duration="16295000" />
+      <workItem from="1564478572342" duration="6717000" />
+      <workItem from="1564547655603" duration="270000" />
+      <workItem from="1564547967991" duration="11046000" />
+      <workItem from="1564559180788" duration="2531000" />
+      <workItem from="1564624308152" duration="15965000" />
+      <workItem from="1564716808033" duration="11596000" />
+      <workItem from="1565233648790" duration="185000" />
+      <workItem from="1565233932793" duration="4134000" />
+      <workItem from="1565246737768" duration="10399000" />
+      <workItem from="1565328843469" duration="7397000" />
+      <workItem from="1565345198806" duration="281000" />
+      <workItem from="1565405919329" duration="64000" />
+      <workItem from="1565664181752" duration="11589000" />
     </task>
     <task id="LOCAL-00001" summary="version 1.0.0&#10;2019.06.04">
       <created>1559646962187</created>
@@ -317,7 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563427386199</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="version 1.0.0&#10;Git Init&#10;2019.07.30">
+      <created>1564473013866</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564473013866</updated>
+    </task>
+    <task id="LOCAL-00019" summary="version 1.0.0&#10;Git Init&#10;2019.08.01">
+      <created>1564639795698</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1564639795698</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -337,7 +376,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -358,7 +399,9 @@
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.17" />
     <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.18" />
     <MESSAGE value="version 1.0.1&#10;Git Init&#10;2019.07.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.1&#10;Git Init&#10;2019.07.18" />
+    <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.07.30" />
+    <MESSAGE value="version 1.0.0&#10;Git Init&#10;2019.08.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.0&#10;Git Init&#10;2019.08.01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BackJoon_Algorithm$teeeee.ic" NAME="teeeee Coverage Results" MODIFIED="1562045259500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
