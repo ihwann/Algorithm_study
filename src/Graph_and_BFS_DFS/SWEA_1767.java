@@ -27,6 +27,7 @@ public class SWEA_1767 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int tc = Integer.parseInt(br.readLine());
+
         int testCase = 1;
 
         while (tc-- > 0) {
