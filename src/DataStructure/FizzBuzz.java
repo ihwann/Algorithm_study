@@ -1,4 +1,4 @@
-package SortAlgorithm;
+package DataStructure;
 
 import java.util.ArrayList;
 import java.util.List;

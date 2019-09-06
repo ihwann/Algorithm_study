@@ -1,6 +1,4 @@
-package SortAlgorithm;
-
-import org.junit.Test;
+package DataStructure;
 
 import java.util.List;
 

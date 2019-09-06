@@ -1,4 +1,4 @@
-package SortAlgorithm;
+package DataStructure;
 
 public class bubbleSort {
     static long startTime;

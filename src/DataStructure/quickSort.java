@@ -1,4 +1,4 @@
-package SortAlgorithm;
+package DataStructure;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +11,7 @@ public class quickSort {
     public static void main(String[] args) {
 
 
-        Integer[] data = {66, 10, -1, 21, 5, 9, 93, 4, 11, -32, 57, 52, 89, -12, 0};
+        Integer [] data = {66, 10, -1, 21, 5, 9, 93, 4, 11, -32, 57, 52, 89, -12, 0};
 
 
         List<Integer> unsortedData = Arrays.asList(data);
