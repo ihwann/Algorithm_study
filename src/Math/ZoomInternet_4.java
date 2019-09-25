@@ -1,31 +1,30 @@
 package Math;
 
-
 public class ZoomInternet_4 {
 
     public static void main(String[] args) {
 
-        int[] zigzag = {4, 8, 12, 16};
+        int[] num = {9,4,2,10};
 
-        int result = solution(zigzag);
+        int result = solution(num);
 
         System.out.println(result);
     }
 
-    private static int solution(int[] zigzag) {
+    private static int solution(int[] num) {
 
         int answer = 1;
         int temp = 1;
 
-        if (zigzag.length == 1) {
+        if (num.length == 1) {
             return 1;
         } else {
 
             int lastSig = 0;
 
-            for (int i = 0; i < zigzag.length - 1; i++) {
+            for (int i = 1; i < num.length; i++) {
 
-                int diff = zigzag[i] - zigzag[i + 1];
+                int diff = num[i] - num[i - 1];
 
                 int sig = Integer.signum(diff);
 
@@ -33,9 +32,12 @@ public class ZoomInternet_4 {
                     lastSig = sig;
                     temp += 1;
                     answer = Math.max(answer, temp);
-                } else {
+                } else if (diff != 0 && lastSig == sig) {
                     temp = 2;
+                    lastSig = sig;
+                } else if (diff == 0) {
                     lastSig = 0;
+                    temp = 1;
                 }
             }
         }
