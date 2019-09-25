@@ -1,4 +1,4 @@
-package Math;
+package CodingTest;
 
 public class ZoomInternet_4 {
 
