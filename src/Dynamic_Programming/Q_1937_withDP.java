@@ -50,7 +50,6 @@ public class Q_1937_withDP {
             if (map[i][j] < map[nx][ny]) {
                 mapDP[i][j] = Math.max(mapDP[i][j], solution(nx, ny) + 1);
             }
-
         }
         return mapDP[i][j];
     }
