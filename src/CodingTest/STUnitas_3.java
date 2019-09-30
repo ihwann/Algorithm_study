@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 public class STUnitas_3 {
     static int n;
     static int[][] city;
-    static int[][] costDP;
     static boolean[] visitChk;
     static int answer = Integer.MAX_VALUE;
 
@@ -17,43 +16,35 @@ public class STUnitas_3 {
 
         n = Integer.parseInt(br.readLine());
         city = new int[n][n];
-        costDP = new int[n][n];
 
         for (int i = 0; i < n; i++) {
-            StringTokenizer st = new StringTokenizer(br.readLine());
+            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
             for (int j = 0; j < n; j++) {
                 city[i][j] = Integer.parseInt(st.nextToken());
             }
         }
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (city[i][j] == 0) continue;
-                visitChk = new boolean[n];
-                dfs(i, j, i, 1);
-            }
+            visitChk = new boolean[n];
+            dfs(i, i, 0, 1);
         }
+
+        System.out.println(answer);
     }
 
-    private static int dfs(int i, int j, int originStart, int numOfCity) {
-
-        // i가 출발지 j가 목적지
-        int result = city[i][j];
-        costDP[i][j] = city[i][j];
-        visitChk[i] = true; // 방문함
-
-        if (numOfCity == 4) {
-            result += city[i][originStart];
-            return result;
+    private static void dfs(int i, int originStart, int cost, int numOfCity) {
+        if (numOfCity == n) {
+            cost += city[i][originStart];
+            answer = Math.min(answer, cost);
+            return;
         } else {
+            visitChk[i] = true; // 방문함
 
-            // 다음목적지로
             for (int x = 0; x < n; x++) {
                 if (visitChk[x]) continue;
-                if (x == i) continue;
+                if (city[i][x] == 0) continue;
+                dfs(x, originStart, cost + city[i][x], numOfCity + 1);
             }
         }
-
-        return result;
     }
 }

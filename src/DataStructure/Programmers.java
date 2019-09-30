@@ -6,7 +6,6 @@ public class Programmers {
         String[] phone_book = {"123", "456", "789"};
 
         System.out.println(Solution(phone_book));
-
     }
 
     private static boolean Solution(String[] phone_book) {
