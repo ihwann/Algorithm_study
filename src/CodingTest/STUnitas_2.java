@@ -27,6 +27,7 @@ public class STUnitas_2 {
             }
         }
         StringBuffer answer = new StringBuffer();
+
         for (int i = 0; i < sb.length(); i++) {
             answer.append(sb.charAt(i)).append(" ");
         }

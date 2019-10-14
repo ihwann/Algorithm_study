@@ -41,7 +41,6 @@ public class STUnitas_6 {
             if (stack.size() > 0) {
                 answer = "No";
             }
-
             System.out.println(answer);
         }
     }
