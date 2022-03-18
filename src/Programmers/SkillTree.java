@@ -19,5 +19,15 @@ public class SkillTree {
         }
 
         System.out.println("answer = " + answer);
+
+
+
+
+
+
+
+        String a = "a-b";
+        String s = a.replaceAll("-", "");
+        System.out.println("a = " + s);
     }
 }
