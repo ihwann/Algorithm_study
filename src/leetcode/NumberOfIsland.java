@@ -3,16 +3,6 @@ package leetcode;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Point {
-
-    int x;
-    int y;
-
-    public Point(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}
 
 public class NumberOfIsland {
 

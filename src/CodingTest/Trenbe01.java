@@ -40,7 +40,7 @@ public class Trenbe01 {
         StringBuffer ans = new StringBuffer();
 
         for (int i = 0; i < charCnt.length; i++) {
-            if (charCnt[i] == finalMaxNum) ans.append(new Character((char) i));
+            if (charCnt[i] == finalMaxNum) ans.append(i);
         }
 
         System.out.println("ans = " + ans);
