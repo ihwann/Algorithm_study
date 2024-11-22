@@ -32,7 +32,7 @@ public class RomanToInteger {
 
             if (map.get(current) > map.get(prev)) {
                 int sub = map.get(current) - map.get(prev);
-                result -=  map.get(prev);
+                result -= map.get(prev);
                 result += sub;
             } else {
                 result += map.get(current);
